@@ -15,7 +15,7 @@
 		"replaces": "University",
 		"uniqueTo": "Hyperborea",
 		"percentStatBonus": {"science": 50},
-		"uniques": ["[+2 science] from [Snow] tiles [in this city]"],
+		"uniques": ["[+2 Science] from [Snow] tiles [in this city]"],
 		"requiredTech": "Education"
 	}
 ]
