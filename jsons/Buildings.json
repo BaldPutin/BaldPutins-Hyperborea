@@ -1,25 +1,21 @@
 [
 	{
-		"name": "Holodeck",
-		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
-		"cost": 480,
-		"happiness": 12,
-		"culture": 12,
-		"science": 12,
-		"maintenance": 96,
+		"name": "Apollo's Spherical Temple",
+		"replaces": "Grand Temple",
+		"uniqueTo": "Hyperborea",
+		"faith": 8,
+		"culture": 1,
+		"science": 8,
+		"maintenance": 4,
 		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Horseback Riding"
+		"requiredTech": "Theology"
 	},
 	{
-		"name": "Breeders",
-		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
-		"cost": 80,
-		"hurryCostModifier": 160,
-		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
+		"name": "Racial Biology Center",
+		"replaces": "University",
+		"uniqueTo": "Hyperborea",
+		"percentStatBonus": {"science": 50},
+		"uniques": ["[+2 science] from [Snow] tiles [in this city]"],
+		"requiredTech": "Education"
 	}
 ]
