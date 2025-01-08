@@ -31,7 +31,7 @@
 		"specialistSlots": {"Artist": 1},
 		"hurryCostModifier": 10,
 		"requiredBuilding": "Amphitheater",
-		"maintenance": 6,
+		"maintenance": 5,
 		"requiredTech": "Acoustics",
 		"uniques": ["[+2 Culture, +2 Faith] from [Snow] tiles [in this city]", "Destroyed when the city is captured"]
 	},
