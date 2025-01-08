@@ -23,15 +23,16 @@
 		"requiredTech": "Education"
 	},
 	{
-		"name": "Festivity Center",
+		"name": "House of Grand Rituals",
 		"replaces": "Opera House",
+		"uniqueTo": "Hyperborea",
 		"culture": 3,
-		"faith": 1,
+		"faith": 3,
 		"specialistSlots": {"Artist": 1},
 		"hurryCostModifier": 10,
 		"requiredBuilding": "Amphitheater",
-		"maintenance": 3,
+		"maintenance": 6,
 		"requiredTech": "Acoustics",
-		"uniques": ["[+2 Culture, +1 Faith] from [Snow] tiles [in this city]", "Destroyed when the city is captured"]
+		"uniques": ["[+2 Culture, +2 Faith] from [Snow] tiles [in this city]", "Destroyed when the city is captured"]
 	},
 ]
