@@ -6,7 +6,7 @@
 		"faith": 8,
 		"culture": 1,
 		"science": 8,
-		"maintenance": 4,
+		"uniques": ["Only available <if [Temple] is constructed in all [non-[Puppeted]] cities>", "Cost increases by [30] per owned city"],
 		"isNationalWonder": true,
 		"requiredTech": "Theology"
 	},
@@ -14,8 +14,12 @@
 		"name": "Racial Biology Center",
 		"replaces": "University",
 		"uniqueTo": "Hyperborea",
+		"maintenance": 3,
+		"hurryCostModifier": 15,
 		"percentStatBonus": {"science": 50},
+		"specialistSlots": {"Scientist": 2},
+		"requiredBuilding": "Library",
 		"uniques": ["[+2 Science] from [Snow] tiles [in this city]"],
 		"requiredTech": "Education"
-	}
+	},
 ]
