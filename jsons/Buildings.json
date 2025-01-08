@@ -19,7 +19,19 @@
 		"percentStatBonus": {"science": 50},
 		"specialistSlots": {"Scientist": 2},
 		"requiredBuilding": "Library",
-		"uniques": ["[+2 Science] from [Snow] tiles [in this city]"],
+		"uniques": ["[+2 Science] from [Snow] tiles [in this city]", "Destroyed when the city is captured"],
 		"requiredTech": "Education"
+	},
+	{
+		"name": "Festivity Center",
+		"replaces": "Opera House",
+		"culture": 3,
+		"faith": 1,
+		"specialistSlots": {"Artist": 1},
+		"hurryCostModifier": 10,
+		"requiredBuilding": "Amphitheater",
+		"maintenance": 3,
+		"requiredTech": "Acoustics",
+		"uniques": ["[+2 Culture, +1 Faith] from [Snow] tiles [in this city]", "Destroyed when the city is captured"]
 	},
 ]
