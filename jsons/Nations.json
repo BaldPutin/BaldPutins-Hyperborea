@@ -1,13 +1,13 @@
 [
 	{
 		"name": "Hyperborea",
-		"leaderName": "Boreadae Adolf",
+		"leaderName": "Boreadae Adolf Hitler, Ninth Incarnation of Vishnu",
 		"adjective": ["Hyperborean"],
 		"startBias": ["Snow"],
 		"preferredVictoryType": "Scientific",
 		
-		"startIntroPart1": "Salutations, Swartoid.",
-		"startIntroPart2": "We are the superior kind.",
+		"startIntroPart1": "Salutations, swarthoid.",
+		"startIntroPart2": "We are the superior race.",
 		
 		"declaringWar": "Your race is like a pest, you need to be exterminated.",
 		"attacked": "Your actions are futile.",
