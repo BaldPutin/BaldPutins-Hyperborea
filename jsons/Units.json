@@ -6,7 +6,7 @@
 		"movement": 2,
 		"cost": 100,
 		"requiredTech": "Writing",
-		"uniques": "Turn this tile into a [Snow] tile <[3] times> <after which this unit is consumed>",
+		"uniques": "Turn this tile into a [Snow] tile <[3] times>",
 	},
 	{
 		"name": "Legendary Healer",
