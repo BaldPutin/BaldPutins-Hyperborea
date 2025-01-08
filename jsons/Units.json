@@ -6,7 +6,7 @@
 		"movement": 2,
     "cost": 100,
     "requiredTech": "Writing",
-    "uniques": ["Turn this tile into a [Snow] tile <[3] times>"],
+    "uniques": ["Turn this tile into a [Snow] tile <for all movement>", "Limited to [3] per Civilization"],
 	},
 	{
 		"name": "Legendary Healer",
