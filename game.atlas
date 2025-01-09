@@ -10,7 +10,7 @@ UnitIcons/Legendary Healer
   orig: 700, 700
   offset: 0, 0
   index: -1
-BuildingIcons/Apollo's Spherical Temple
+UnitIcons/Ice Wizard
   rotate: false
   xy: 712, 712
   size: 700, 700
@@ -24,7 +24,7 @@ NationIcons/Hyperborea
   orig: 700, 700
   offset: 0, 0
   index: -1
-UnitIcons/Ice Wizard
+BuildingIcons/Apollo's Spherical Temple
   rotate: false
   xy: 4, 4
   size: 700, 700
