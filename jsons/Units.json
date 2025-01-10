@@ -4,16 +4,16 @@
 		"unitType": "Civilian",
 		"uniqueTo": "Hyperborea",
 		"movement": 2,
-    "cost": 100,
-    "requiredTech": "Writing",
-    "uniques": ["Turn this tile into a [Snow] tile <for all movement>", "Limited to [3] per Civilization"],
+    		"cost": 200,
+    		"requiredTech": "Theology",
+		"uniques": ["Turn this tile into a [Snow] tile <for all movement>", "Costs [1000] [Faith]", "Limited to [1] per Civilization", "Uncapturable"],
 	},
 	{
 		"name": "Legendary Healer",
-    "unitType": "Civilian", "uniqueTo": "Hyperborea",
-    "replaces": "Great General",
-    "uniques": ["Empire enters a [8]-turn Golden Age <by consuming this unit>", "[+10]% Strength bonus for [Military] units within [2] tiles", "All adjacent units heal [+20] HP when healing", "[+20] HP when healing", "Can instantly construct a [Citadel] improvement <by consuming this unit>", "Can be earned through combat", "Great Person - [War]", "Unbuildable", "Uncapturable"],
-    "movement": 2,
+    		"unitType": "Civilian", "uniqueTo": "Hyperborea",
+    		"replaces": "Great General",
+    		"uniques": ["Empire enters a [8]-turn Golden Age <by consuming this unit>", "[+10]% Strength bonus for [Military] units within [2] tiles", "All adjacent units heal [+20] HP when healing", "[+20] HP when healing", "Can be earned through combat", "Great Person - [War]", "Unbuildable", "Uncapturable"],
+    		"movement": 2,
 	}
 ]
 
