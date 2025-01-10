@@ -4,9 +4,9 @@
 		"replaces": "Grand Temple",
 		"uniqueTo": "Hyperborea",
 		"faith": 8,
-		"culture": 1,
+		"culture": 8,
 		"science": 8,
-		"uniques": ["Only available <if [Temple] is constructed in all [non-[Puppeted]] cities>", "Cost increases by [30] per owned city"],
+		"uniques": ["[3] free [Archer] units appear", "Only available <if [Temple] is constructed in all [non-[Puppeted]] cities>", "Cost increases by [30] per owned city"],
 		"isNationalWonder": true,
 		"requiredTech": "Theology"
 	},
@@ -16,7 +16,7 @@
 		"uniqueTo": "Hyperborea",
 		"maintenance": 3,
 		"hurryCostModifier": 15,
-		"percentStatBonus": {"science": 50},
+		"percentStatBonus": {"science": 33},
 		"specialistSlots": {"Scientist": 2},
 		"requiredBuilding": "Library",
 		"uniques": ["[+2 Science] from [Snow] tiles [in this city]", "Destroyed when the city is captured"],
@@ -33,6 +33,6 @@
 		"requiredBuilding": "Amphitheater",
 		"maintenance": 5,
 		"requiredTech": "Acoustics",
-		"uniques": ["[+2 Culture, +2 Faith] from [Snow] tiles [in this city]", "Destroyed when the city is captured"]
+		"uniques": ["[+3 Culture, +2 Faith] from [Snow] tiles [in this city]", "Destroyed when the city is captured"]
 	},
 ]
