@@ -6,7 +6,7 @@
 		"movement": 2,
     		"cost": 200,
     		"requiredTech": "Theology",
-		"uniques": ["Turn this tile into a [Snow] tile <for all movement>", "Costs [1000] [Faith]", "Limited to [1] per Civilization", "Uncapturable"],
+		"uniques": ["Turn this tile into a [Snow] tile <for all movement>", "Costs [1000] [faith]", "Limited to [1] per Civilization", "Uncapturable"],
 	},
 	{
 		"name": "Legendary Healer",
