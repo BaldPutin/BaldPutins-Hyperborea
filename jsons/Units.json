@@ -4,9 +4,9 @@
 		"unitType": "Civilian",
 		"uniqueTo": "Hyperborea",
 		"movement": 2,
-    		"cost": 100,
+    		"cost": 300,
     		"requiredTech": "Theology",
-		"uniques": ["Turn this tile into a [Snow] tile <for all movement> <[3] times> <after which this unit is consumed>", "Can be purchased with [Faith] [in all cities]", "Unbuildable", "Uncapturable"],
+		"uniques": ["Turn this tile into a [Snow] tile <for all movement> <[3] times> <after which this unit is consumed>", "Can be purchased with [Faith] [in all cities]", "Cost increases by [200] when built", "Unbuildable", "Uncapturable"],
 	},
 	{
 		"name": "Legendary Healer",
