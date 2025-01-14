@@ -1,1 +1,31 @@
-
+[
+  {
+      "name": "Hyperborea",
+      "culture": 10,
+      "faith": 9,
+      "food": 0,
+      "gold": 3,
+      "happiness": 8,
+      "production": 0,
+      "science": 9,
+      "military": 8,
+      "aggressive": 5,
+      "declareWar": 5,
+      "commerce": 0,
+      "diplomacy": 0,
+      "loyal": 0,
+      "expansion": 10,
+      "priorities": {
+          "Tradition": 10,
+          "Liberty": 8,
+          "Honor": 7,
+          "Commerce": 1,
+          "Patronage": 0,
+          "Piety": 7,
+          "Rationalism": 8,
+          "Freedom": 9,
+          "Autocracy": 7,
+          "Order": 8,
+      }
+  }
+]
