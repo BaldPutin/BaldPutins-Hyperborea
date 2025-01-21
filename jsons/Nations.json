@@ -31,7 +31,7 @@
 		"outerColor": [255,255,255],
 		"innerColor": [0,0,0],
 		"uniqueName": "Arctic Paradise",
-		"uniques": ["[+3 Production, +3 Food] from [Snow] tiles [in your cities]", "[+1 Production, +2 Food] from [Tundra] tiles [in your cities]", "[-1 Production, -1 Food] from [Plains] tiles [in your cities]", "[-1 Production, -1 Food] from [Grasslands] tiles [in your cities]"],
+		"uniques": ["[+3 Production, +3 Food] from [Snow] tiles [in all cities]", "[+1 Production, +2 Food] from [Tundra] tiles [in all cities]", "[-1 Production, -1 Food] from [Plains] tiles [in all cities]", "[-1 Production, -1 Food] from [Grasslands] tiles [in all cities]"],
 		"cities": ["Polus Arcticus","Elyonia","Nýr Asgard","Alfheimr","Jotunheimr","Niflheimr","Avalon","Inis",
 			"Annwn","Opona","Tír na Nóg","Agartha","Elphame","Tarama na Hava","City of Brass","Shambala","Nox","Fusang",
 			"Zerzora","Oynx","Yomi","Solas","Dangus","Siddha","Thadrethes","Leto","Hypos","Urrasan",
